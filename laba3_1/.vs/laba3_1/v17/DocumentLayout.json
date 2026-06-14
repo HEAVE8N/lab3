@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Documents\\GitHub\\Lab3\\laba3_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFB0E30-532D-8775-D4C0-9B152DA1E74A}|laba3_1.fsproj|z:\\documents\\github\\lab3\\laba3_1\\3_1.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{0AFB0E30-532D-8775-D4C0-9B152DA1E74A}|laba3_1.fsproj|solutionrelative:3_1.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3_1.fs",
+              "DocumentMoniker": "Z:\\Documents\\GitHub\\Lab3\\laba3_1\\3_1.fs",
+              "RelativeDocumentMoniker": "3_1.fs",
+              "ToolTip": "Z:\\Documents\\GitHub\\Lab3\\laba3_1\\3_1.fs",
+              "RelativeToolTip": "3_1.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-14T13:13:02.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
